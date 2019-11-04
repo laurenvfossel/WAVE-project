@@ -6,10 +6,11 @@ load Warm programs into the Wind memory and simulate the the execution of the pr
 processor. As with any successful emulator, the Warm virtual emulator (or Wave) will be a success if it
 (1) runs correctly, (2) runs quickly, and (3) uses as little memory as possible.
 
-================================================================================
+====================================================================
  PERFORMANCE SUMMARY:
-================================================================================
+====================================================================
 PROGRAM   FOOTPRINT   WAVE      WARM      WAVE/WARM     TEST STATUS
+
 ali       1000        217440    5899      36.86         passed
 bfz       996         7924081   264931 2  9.91          passed
 gcd       995         13213     341       38.75         passed
